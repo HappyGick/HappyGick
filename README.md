@@ -11,6 +11,9 @@ And here's a few other things I'm currently learning for fun:
 - 📟 Embedded programming
 - 🔌 Electronics
 - 💻 Systems programming
+
 If you wish to contact me, here you go:
+
 Email: eagarciay@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/eduardo-garc%C3%ADa-a0764420b/
