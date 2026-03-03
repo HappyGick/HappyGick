@@ -5,6 +5,7 @@ My name is Eduardo, I am very passionate about everything IT. Whatever you may w
 - ☁️ Cloud infrastructure: AWS, GCP, Coolify, OKD
 - 🎮 Game development with Unity
 - 📱 Mobile development: Flutter, Ionic
+
 And here's a few other things I'm currently learning for fun:
 - 🎨 Graphics programming
 - 📟 Embedded programming
