@@ -12,7 +12,7 @@ And here's a few other things I'm currently learning for fun:
 - 🔌 Electronics
 - 💻 Systems programming
 
-If you wish to contact me, here you go:
+If you wish to contact me, here you go (Spanish and English):
 
 Email: eagarciay@gmail.com
 
