@@ -1,5 +1,5 @@
 # Hey There!
-My name is Eduardo, I am very passionate about everything IT. Whatever you may want me to make, I can (probably) make it! I began my journey through programming & IT when I was about 10 years old (as of March 2026 I'm 23). Since then, I've explored many things, so here's what I currently have most expertise on:
+My name is Eduardo, I am very passionate about everything IT. Whatever you may want me to make, I can (probably) make it! I began my journey through programming & IT when I was about 10 years old (as of March 2026 I'm 23). Since then, I've explored many things, so here's what I currently have the most expertise on:
 - 🌐 Full Stack web development: Svelte, Angular, Nest, Express, React
 - 🖥️ Software development: C#, Java
 - ☁️ Cloud infrastructure: AWS, GCP, Coolify, OKD
